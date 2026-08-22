@@ -1,18 +1,18 @@
 # About Me
 
-**Name:** Zachariah Matlock
-**Major:** Data Analytics
-**Year:** Sophomore/Junior
+**Name:** Gabriella Carter
+**Major:** Cybersecurity
+**Year:** Freshman
 
 ## A Little About Me
 
-Hello, my name is Zach, i graduated from Greenbrier High School and am currently pursuing a career in data analytics. 
-I am really into Batman and Dragon Ball. I play Magic the Gathering on occasion and work at Publix as a Cashier. 
+Hello, my name is Gabriella, I graduated from GSIC and am currently pursuing a career in cybersecurity.
+I like to thrift, paint, and watch horror movies.
 
 ## Two Truths and a Lie
 
-1. I originally wanted to do graphic design
-2. I spend way too much money on dumb hobbies
-3. I am secretly a millionare
+1. I have 5 siblings.
+2. My birthday is 8/20.
+3. I left two dogs at home :(.
 
-*You can mention my name and fun facts in class: Yes*
+*You can mention my name and fun facts in class: Yes
