@@ -15,7 +15,7 @@ Github is a web-based hosting service that stores stuff from Git. Git is an open
 
 What... is the secret word found in the InClass-Examples repository?
 
-[Your answer here]
+Sesame.
 
 ### Question 3
 
@@ -25,4 +25,4 @@ Well... is it European or African?
 
 The Bridge Keeper has the answer.
 
-20-40MPH
+I don't know that!
